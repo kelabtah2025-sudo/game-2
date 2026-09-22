@@ -1,0 +1,6 @@
+{
+  "name": "أوجد ناتج الضرب - بطاقة الدخول",
+  "description": "لعبة رياضيات تفاعلية ممتعة لطلاب الصف الثالث الابتدائي لحل بطاقة الدخول في حقائق الضرب",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
